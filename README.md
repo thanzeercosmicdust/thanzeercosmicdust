@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @thanzeercosmicdust
-- 👀 I’m interested in Coding
-- 🌱 I’m currently Studying Btech Computer Science
-- 💞️ I’m looking to collaborate on Better Opportunities
 - 📫 You can reach me ,thanzeer.official@gmail.com
 
 <!---
